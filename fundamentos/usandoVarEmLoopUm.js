@@ -1,0 +1,7 @@
+// Usando var em loop #1
+
+for (var i = 0; i<10; i++) {
+    console.log(i)
+}
+
+console.log('i =', i) // 10
