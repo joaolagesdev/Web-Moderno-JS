@@ -1,3 +1,5 @@
+// Tipo Objeto #2
+
 console.log(typeof Object)
 console.log(typeof new Object)
 
