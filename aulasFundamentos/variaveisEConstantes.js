@@ -6,7 +6,7 @@
  */ 
 
 var identificador = 3 // identificador recebe o valor 3
-let variavelA = 4 // variavelB recebe o valor 4
+let variavelA = 4 // variavelA recebe o valor 4
 
 var identificador = 30
 variavelA = 40
