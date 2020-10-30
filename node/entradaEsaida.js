@@ -3,6 +3,7 @@ console.log(anonimo)
 
 if(anonimo) {
     process.stdout.write("Fala anônimo!\n")
+    process.exit()
 } else {
     process.stdout.write('Informe o seu nome: ')
     process.stdin.on('data', data => {
